@@ -24,3 +24,4 @@ Then look for the file :
 
 updated the webhook
 quality gates
+nexus
